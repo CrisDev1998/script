@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.95.5"
+  },
+  "name": "solana-wallet-checker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
